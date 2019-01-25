@@ -1,0 +1,417 @@
+Gene,IDGFamily,Notes
+ADGRA1,GPCR
+ADGRA2,GPCR
+ADGRA3,GPCR
+ADGRB1,GPCR
+ADGRB2,GPCR
+ADGRB3,GPCR
+ADGRD1,GPCR
+ADGRD2,GPCR
+ADGRE1,GPCR
+ADGRE2,GPCR
+ADGRE3,GPCR
+CD97,GPCR,Changed symbol from ADGRE5. Current symbol in HGNC is ADGRE5, but UniProt still has CD97.
+ADGRF1,GPCR
+ADGRF2,GPCR
+ADGRF3,GPCR
+ADGRF4,GPCR
+ADGRF5,GPCR
+ADGRG2,GPCR
+ADGRG3,GPCR
+ADGRG4,GPCR
+ADGRG5,GPCR
+ADGRG6,GPCR
+ADGRG7,GPCR
+ADGRL4,GPCR
+CHRM5,GPCR
+FZD10,GPCR
+GNRHR2,GPCR
+GPR101,GPCR
+GPR12,GPCR
+GPR132,GPCR
+GPR135,GPCR
+GPR137,GPCR
+GPR139,GPCR
+GPR141,GPCR
+GPR142,GPCR
+GPR143,GPCR
+GPR146,GPCR
+GPR148,GPCR
+GPR149,GPCR
+GPR15,GPCR
+GPR150,GPCR
+GPR151,GPCR
+GPR152,GPCR
+GPR153,GPCR
+GPR156,GPCR
+GPR157,GPCR
+GPR160,GPCR
+GPR161,GPCR
+GPR162,GPCR
+GPR17,GPCR
+GPR171,GPCR
+GPR173,GPCR
+GPR174,GPCR
+GPR18,GPCR
+GPR182,GPCR
+GPR183,GPCR
+GPR19,GPCR
+GPR20,GPCR
+GPR21,GPCR
+GPR22,GPCR
+GPR25,GPCR
+GPR26,GPCR
+GPR27,GPCR
+GPR3,GPCR
+GPR31,GPCR
+GPR32,GPCR
+GPR32P1,GPCR
+GPR34,GPCR
+GPR35,GPCR
+GPR37,GPCR
+GPR37L1,GPCR
+GPR39,GPCR
+GPR4,GPCR
+GPR45,GPCR
+GPR50,GPCR
+GPR52,GPCR
+GPR55,GPCR
+GPR6,GPCR
+GPR61,GPCR
+GPR62,GPCR
+GPR63,GPCR
+GPR65,GPCR
+GPR68,GPCR
+GPR75,GPCR
+GPR78,GPCR
+GPR82,GPCR
+GPR83,GPCR
+GPR84,GPCR
+GPR85,GPCR
+GPR87,GPCR
+GPR88,GPCR
+GPRC5A,GPCR
+GPRC5B,GPCR
+GPRC5C,GPCR
+GPRC5D,GPCR
+HCAR1,GPCR
+HCAR3,GPCR
+HTR1E,GPCR
+HTR5A,GPCR
+LPAR6,GPCR
+MAS1,GPCR
+MAS1L,GPCR
+MRGPRE,GPCR
+MRGPRF,GPCR
+MRGPRG,GPCR
+MRGPRX1,GPCR
+MRGPRX2,GPCR
+MRGPRX3,GPCR
+MRGPRX4,GPCR
+MTNR1A,GPCR
+MTNR1B,GPCR
+NPBWR1,GPCR
+NPBWR2,GPCR
+NPY2R,GPCR
+NPY5R,GPCR
+OXER1,GPCR
+OXGR1,GPCR
+P2RY10,GPCR
+P2RY11,GPCR
+PROKR1,GPCR
+QRFPR,GPCR
+RXFP3,GPCR
+RXFP4,GPCR
+SUCNR1,GPCR
+TAAR2,GPCR
+TAAR3P,GPCR,Changed symbol from TAAR3. Current symbol in HGNC is TAAR3, but UniProt still has TAAR3P.
+TAAR8,GPCR
+TAAR9,GPCR
+TAS2R1,GPCR
+TAS2R10,GPCR
+TAS2R13,GPCR
+TAS2R14,GPCR
+TAS2R16,GPCR
+TAS2R19,GPCR
+TAS2R20,GPCR
+TAS2R3,GPCR
+TAS2R30,GPCR
+TAS2R31,GPCR
+TAS2R39,GPCR
+TAS2R4,GPCR
+TAS2R40,GPCR
+TAS2R41,GPCR
+TAS2R42,GPCR
+TAS2R43,GPCR
+TAS2R46,GPCR
+TAS2R5,GPCR
+TAS2R50,GPCR
+TAS2R60,GPCR
+TAS2R7,GPCR
+TAS2R8,GPCR
+TAS2R9,GPCR
+TPRA1,GPCR
+ASIC4,Ion channel
+BEST4,Ion channel
+CACNA2D2,Ion channel
+CACNA2D3,Ion channel
+CACNA2D4,Ion channel
+CACNB1,Ion channel
+CACNB2,Ion channel
+CACNB3,Ion channel
+CACNB4,Ion channel
+CACNG1,Ion channel
+CACNG3,Ion channel
+CACNG4,Ion channel
+CACNG5,Ion channel
+CACNG6,Ion channel
+CACNG7,Ion channel
+CACNG8,Ion channel
+CATSPER2,Ion channel
+CHRNA10,Ion channel
+CHRNA2,Ion channel
+CHRNB1,Ion channel
+CHRND,Ion channel
+CLCA2,Ion channel
+CLCA4,Ion channel
+CLCC1,Ion channel
+CLCN6,Ion channel
+CLCNKA,Ion channel
+CLIC2,Ion channel
+CLIC3,Ion channel
+CLIC5,Ion channel
+CLIC6,Ion channel
+CNGA4,Ion channel
+CALHM4,Ion channel,Changed symbol from FAM26D. CALHM4 is the current symbol according to HGNC.
+CALHM5,Ion channel,Changed symbol from FAM26E. CALHM5 is the current symbol according to HGNC.
+CALHM6,Ion channel,Changed symbol from FAM26F. CALHM6 is the current symbol according to HGNC.
+FXYD3,Ion channel
+FXYD7,Ion channel
+GABRA5,Ion channel
+GABRG1,Ion channel
+GABRP,Ion channel
+GABRR1,Ion channel
+GLRA3,Ion channel
+GLRA4,Ion channel
+GLRB,Ion channel
+GPR89A,Ion channel
+GPR89B,Ion channel
+GRID1,Ion channel
+GRIK3,Ion channel
+HTR3C,Ion channel
+HTR3D,Ion channel
+HTR3E,Ion channel
+KCNA6,Ion channel
+KCNA7,Ion channel
+KCNAB2,Ion channel
+KCNAB3,Ion channel
+KCNC4,Ion channel
+KCND1,Ion channel
+KCNG2,Ion channel
+KCNG3,Ion channel
+KCNG4,Ion channel
+KCNH4,Ion channel
+KCNH6,Ion channel
+KCNH8,Ion channel
+KCNIP1,Ion channel
+KCNIP4,Ion channel
+KCNJ14,Ion channel
+KCNJ15,Ion channel
+KCNJ18,Ion channel
+KCNK12,Ion channel
+KCNK4,Ion channel
+KCNK7,Ion channel
+KCNMB3,Ion channel
+KCNMB4,Ion channel
+KCNN1,Ion channel
+KCNS1,Ion channel
+KCNS2,Ion channel
+KCNS3,Ion channel
+KCNT1,Ion channel
+KCNT2,Ion channel
+KCNV1,Ion channel
+LRRC38,Ion channel
+LRRC55,Ion channel
+PANX2,Ion channel
+PKD1L2,Ion channel
+PKD1L3,Ion channel
+PKD2L2,Ion channel
+PLLP,Ion channel
+SCN2B,Ion channel
+SCN3B,Ion channel
+SCN7A,Ion channel
+SCNN1B,Ion channel
+SCNN1D,Ion channel
+SLC26A1,Ion channel
+TMC3,Ion channel
+TMC4,Ion channel
+TMC5,Ion channel
+TMC7,Ion channel
+TMEM38B,Ion channel
+TMEM63A,Ion channel
+TMEM63B,Ion channel
+TMEM63C,Ion channel
+TTYH1,Ion channel
+TTYH2,Ion channel
+ADCK1,Kinase
+BRSK1,Kinase
+BRSK2,Kinase
+CAMKK2,Kinase
+CDC42BPA,Kinase
+CDK11A,Kinase
+CDK12,Kinase
+CDK13,Kinase
+CDK16,Kinase
+CDK19,Kinase
+CDK20,Kinase
+CDKL5,Kinase
+COQ8A,Kinase
+CSNK1A1L,Kinase
+CSNK2A3,Kinase
+DCLK3,Kinase
+DSTYK,Kinase
+HIPK1,Kinase
+HIPK3,Kinase
+ICK,Kinase
+LMTK2,Kinase
+MAP3K15,Kinase
+MAP3K21,Kinase
+MARK1,Kinase
+MARK3,Kinase
+MKNK1,Kinase
+NEK1,Kinase
+NEK3,Kinase
+NEK8,Kinase
+NEK9,Kinase
+NUAK2,Kinase
+OBSCN,Kinase
+PAN3,Kinase
+PIP5K1C,Kinase
+RIOK2,Kinase
+RNASEL,Kinase
+SBK1,Kinase
+STK17B,Kinase
+STK19,Kinase
+TAOK1,Kinase
+TAOK2,Kinase
+TSSK2,Kinase
+VRK3,Kinase
+WNK3,Kinase
+ADCK2,Kinase
+ADCK5,Kinase
+ALPK2,Kinase
+ALPK3,Kinase
+BCKDK,Kinase
+CAMK1D,Kinase
+CAMK1G,Kinase
+CAMKK1,Kinase
+CAMKV,Kinase
+CDC42BPB,Kinase
+CDC42BPG,Kinase
+CDK10,Kinase
+CDK11B,Kinase
+CDK14,Kinase
+CDK15,Kinase
+CDK17,Kinase
+CDK18,Kinase
+CDKL1,Kinase
+CDKL2,Kinase
+CDKL3,Kinase
+CDKL4,Kinase
+CLK3,Kinase
+CLK4,Kinase
+COQ8B,Kinase
+CSNK1G1,Kinase
+CSNK1G2,Kinase
+CSNK1G3,Kinase
+CSNK2A2,Kinase
+DYRK1B,Kinase
+DYRK2,Kinase
+DYRK3,Kinase
+DYRK4,Kinase
+EEF2K,Kinase
+ERN2,Kinase
+HIPK4,Kinase
+LMTK3,Kinase
+LRRK1,Kinase
+LTK,Kinase
+MAP3K10,Kinase
+MAP3K14,Kinase
+MAPK15,Kinase
+MAPK4,Kinase
+MARK4,Kinase
+MAST2,Kinase
+MAST3,Kinase
+MAST4,Kinase
+MKNK2,Kinase
+NEK10,Kinase
+NEK11,Kinase
+NEK4,Kinase
+NEK5,Kinase
+NEK6,Kinase
+NEK7,Kinase
+NIM1K,Kinase
+NRBP2,Kinase
+NRK,Kinase
+PAK3,Kinase
+PAK5,Kinase
+PAK6,Kinase
+PDIK1L,Kinase
+PHKG1,Kinase
+PHKG2,Kinase
+PI4KA,Kinase
+PIK3C2B,Kinase
+PIK3C2G,Kinase
+PIP4K2C,Kinase
+PIP5K1A,Kinase
+PIP5K1B,Kinase
+PKMYT1,Kinase
+PKN3,Kinase
+PNCK,Kinase
+POMK,Kinase
+PRAG1,Kinase
+PRKACB,Kinase
+PRKACG,Kinase
+PRKCQ,Kinase
+PRPF4B,Kinase
+PSKH1,Kinase
+PSKH2,Kinase
+PXK,Kinase
+RIOK1,Kinase
+RIOK3,Kinase
+RPS6KC1,Kinase
+RPS6KL1,Kinase
+SBK2,Kinase
+SBK3,Kinase
+SCYL1,Kinase
+SCYL2,Kinase
+SCYL3,Kinase
+SGK494,Kinase
+SRPK3,Kinase
+STK17A,Kinase
+STK3,Kinase
+STK31,Kinase
+STK32A,Kinase
+STK32B,Kinase
+STK32C,Kinase
+STK33,Kinase
+STK36,Kinase
+STK38L,Kinase
+STK40,Kinase
+STKLD1,Kinase
+TBCK,Kinase
+TESK1,Kinase
+TESK2,Kinase
+TLK1,Kinase
+TLK2,Kinase
+TP53RK,Kinase
+TSSK1B,Kinase
+TSSK3,Kinase
+TSSK4,Kinase
+TSSK6,Kinase
+TTBK1,Kinase
+TTBK2,Kinase
+ULK4,Kinase
+VRK2,Kinase
+WEE2,Kinase
+WNK2,Kinase
